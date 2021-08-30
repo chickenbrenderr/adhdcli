@@ -1,6 +1,7 @@
 # adhdcli
 This is a cli tool to track tasks for people with adhd
 
+This idea came from a tiktok by @shehasbadknees
 
 # Why CLI
 
